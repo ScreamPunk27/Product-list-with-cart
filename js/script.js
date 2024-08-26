@@ -1,4 +1,4 @@
-let data = '/data.json';
+let data = './data.json';
 let dessertsGrid = document.querySelector('.desserts__grid');
 let products = [];
 
